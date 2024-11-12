@@ -1,0 +1,14 @@
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\IrmakKaytan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\IrmakKaytan.AssemblyInfoInputs.cache
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\IrmakKaytan.AssemblyInfo.cs
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\IrmakKaytan.csproj.CoreCompileInputs.cache
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\bin\Debug\net8.0\IrmakKaytan.exe
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\bin\Debug\net8.0\IrmakKaytan.deps.json
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\bin\Debug\net8.0\IrmakKaytan.runtimeconfig.json
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\bin\Debug\net8.0\IrmakKaytan.dll
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\bin\Debug\net8.0\IrmakKaytan.pdb
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\IrmakKaytan.dll
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\refint\IrmakKaytan.dll
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\IrmakKaytan.pdb
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\IrmakKaytan.genruntimeconfig.cache
+C:\Users\IRMAK\source\repos\IrmakKaytan\IrmakKaytan\obj\Debug\net8.0\ref\IrmakKaytan.dll
